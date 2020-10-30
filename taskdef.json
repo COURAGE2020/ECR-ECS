@@ -3,7 +3,8 @@
     "containerDefinitions": [
         {
             "name": "sample-website",
-            "image": "nginx",
+            "image": "IMAGE1_NAME
+",
             "essential": true,
             "portMappings": [
                 {
